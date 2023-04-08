@@ -1,0 +1,165 @@
+开始训练模型
+100%|██████████| 500/500 [00:19<00:00, 26.21it/s]
+100%|██████████| 500/500 [00:13<00:00, 38.19it/s]
+23276 26500
+accuracy:87.83%   loss:0.4557
+epoch:1  train_loss:0.4144
+test_acc:87.83%  test_loss:0.4557
+100%|██████████| 500/500 [00:13<00:00, 38.31it/s]
+100%|██████████| 500/500 [00:12<00:00, 38.57it/s]
+23679 26500
+accuracy:89.35%   loss:0.5263
+epoch:2  train_loss:0.3726
+test_acc:89.35%  test_loss:0.5263
+100%|██████████| 500/500 [00:13<00:00, 38.44it/s]
+100%|██████████| 500/500 [00:12<00:00, 38.47it/s]
+24612 26500
+accuracy:92.88%   loss:0.1772
+epoch:3  train_loss:0.2415
+test_acc:92.88%  test_loss:0.1772
+100%|██████████| 500/500 [00:12<00:00, 38.49it/s]
+100%|██████████| 500/500 [00:13<00:00, 38.44it/s]
+24057 26500
+accuracy:90.78%   loss:0.3507
+epoch:4  train_loss:0.1568
+test_acc:90.78%  test_loss:0.3507
+100%|██████████| 500/500 [00:12<00:00, 38.79it/s]
+100%|██████████| 500/500 [00:13<00:00, 38.41it/s]
+24769 26500
+accuracy:93.47%   loss:0.2179
+epoch:5  train_loss:0.1964
+test_acc:93.47%  test_loss:0.2179
+100%|██████████| 500/500 [00:13<00:00, 38.41it/s]
+100%|██████████| 500/500 [00:13<00:00, 38.09it/s]
+23161 26500
+accuracy:87.40%   loss:0.6343
+epoch:6  train_loss:0.0599
+test_acc:87.40%  test_loss:0.6343
+100%|██████████| 500/500 [00:12<00:00, 38.59it/s]
+100%|██████████| 500/500 [00:14<00:00, 34.23it/s]
+23720 26500
+accuracy:89.51%   loss:0.5078
+epoch:7  train_loss:0.0523
+test_acc:89.51%  test_loss:0.5078
+100%|██████████| 500/500 [00:14<00:00, 34.13it/s]
+100%|██████████| 500/500 [00:13<00:00, 35.79it/s]
+26150 26500
+accuracy:98.68%   loss:0.0780
+最终模型存储完成
+开始测试模型准确率
+100%|██████████| 500/500 [00:17<00:00, 27.91it/s]
+26150 26500
+accuracy:98.68%   loss:0.0096
+开始预测多图片所属类别
+loaded class:Name (13)   predicted class:Name (13)   conformance:True
+loaded class:Name (18)   predicted class:Name (18)   conformance:True
+loaded class:Name (36)   predicted class:Name (36)   conformance:True
+loaded class:Name (47)   predicted class:Name (47)   conformance:True
+loaded class:Name (27)   predicted class:Name (27)   conformance:True
+loaded class:Name (14)   predicted class:Name (14)   conformance:True
+loaded class:Name (42)   predicted class:Name (42)   conformance:True
+loaded class:Name (28)   predicted class:Name (28)   conformance:True
+loaded class:Name (23)   predicted class:Name (23)   conformance:True
+loaded class:Name (46)   predicted class:Name (46)   conformance:True
+loaded class:Name (30)   predicted class:Name (30)   conformance:True
+loaded class:Name (32)   predicted class:Name (32)   conformance:True
+loaded class:Name (10)   predicted class:Name (10)   conformance:True
+loaded class:Name (4)   predicted class:Name (4)   conformance:True
+loaded class:Name (7)   predicted class:Name (18)   conformance:False
+loaded class:Name (39)   predicted class:Name (39)   conformance:True
+loaded class:Name (35)   predicted class:Name (35)   conformance:True
+loaded class:Name (9)   predicted class:Name (9)   conformance:True
+loaded class:Name (33)   predicted class:Name (33)   conformance:True
+loaded class:Name (52)   predicted class:Name (52)   conformance:True
+loaded class:Name (8)   predicted class:Name (8)   conformance:True
+loaded class:Name (40)   predicted class:Name (40)   conformance:True
+loaded class:Name (51)   predicted class:Name (51)   conformance:True
+loaded class:Name (29)   predicted class:Name (29)   conformance:True
+loaded class:Name (41)   predicted class:Name (41)   conformance:True
+loaded class:Name (6)   predicted class:Name (6)   conformance:True
+loaded class:Name (34)   predicted class:Name (34)   conformance:True
+loaded class:Name (53)   predicted class:Name (53)   conformance:True
+loaded class:Name (20)   predicted class:Name (20)   conformance:True
+loaded class:Name (5)   predicted class:Name (5)   conformance:True
+loaded class:Name (1)   predicted class:Name (1)   conformance:True
+loaded class:Name (37)   predicted class:Name (37)   conformance:True
+loaded class:Name (38)   predicted class:Name (38)   conformance:True
+loaded class:Name (2)   predicted class:Name (2)   conformance:True
+loaded class:Name (50)   predicted class:Name (50)   conformance:True
+loaded class:Name (17)   predicted class:Name (17)   conformance:True
+loaded class:Name (22)   predicted class:Name (22)   conformance:True
+loaded class:Name (25)   predicted class:Name (25)   conformance:True
+loaded class:Name (26)   predicted class:Name (26)   conformance:True
+loaded class:Name (44)   predicted class:Name (44)   conformance:True
+loaded class:Name (45)   predicted class:Name (45)   conformance:True
+loaded class:Name (19)   predicted class:Name (19)   conformance:True
+loaded class:Name (11)   predicted class:Name (11)   conformance:True
+loaded class:Name (49)   predicted class:Name (49)   conformance:True
+loaded class:Name (3)   predicted class:Name (3)   conformance:True
+loaded class:Name (24)   predicted class:Name (24)   conformance:True
+loaded class:Name (15)   predicted class:Name (15)   conformance:True
+loaded class:Name (12)   predicted class:Name (12)   conformance:True
+loaded class:Name (48)   predicted class:Name (48)   conformance:True
+loaded class:Name (43)   predicted class:Name (43)   conformance:True
+loaded class:Name (16)   predicted class:Name (16)   conformance:True
+loaded class:Name (21)   predicted class:Name (21)   conformance:True
+loaded class:Name (31)   predicted class:Name (31)   conformance:True
+开始预测单图片所属类别
+loaded class: Name (1)
+predicted class: Name (1)
+开始测试每个类别分类的准确率
+100%|██████████| 500/500 [00:23<00:00, 21.71it/s]
+Accuracy of Name (1) : 100 %
+Accuracy of Name (10) : 100 %
+Accuracy of Name (11) : 100 %
+Accuracy of Name (12) : 100 %
+Accuracy of Name (13) : 96 %
+Accuracy of Name (14) : 99 %
+Accuracy of Name (15) : 100 %
+Accuracy of Name (16) : 100 %
+Accuracy of Name (17) : 96 %
+Accuracy of Name (18) : 100 %
+Accuracy of Name (19) : 100 %
+Accuracy of Name (2) : 99 %
+Accuracy of Name (20) : 100 %
+Accuracy of Name (21) : 99 %
+Accuracy of Name (22) : 98 %
+Accuracy of Name (23) : 99 %
+Accuracy of Name (24) : 100 %
+Accuracy of Name (25) : 94 %
+Accuracy of Name (26) : 82 %
+Accuracy of Name (27) : 100 %
+Accuracy of Name (28) : 100 %
+Accuracy of Name (29) : 97 %
+Accuracy of Name (3) : 98 %
+Accuracy of Name (30) : 100 %
+Accuracy of Name (31) : 96 %
+Accuracy of Name (32) : 98 %
+Accuracy of Name (33) : 100 %
+Accuracy of Name (34) : 100 %
+Accuracy of Name (35) : 100 %
+Accuracy of Name (36) : 98 %
+Accuracy of Name (37) : 98 %
+Accuracy of Name (38) : 96 %
+Accuracy of Name (39) : 100 %
+Accuracy of Name (4) : 91 %
+Accuracy of Name (40) : 99 %
+Accuracy of Name (41) : 100 %
+Accuracy of Name (42) : 96 %
+Accuracy of Name (43) : 99 %
+Accuracy of Name (44) : 99 %
+Accuracy of Name (45) : 100 %
+Accuracy of Name (46) : 99 %
+Accuracy of Name (47) : 100 %
+Accuracy of Name (48) : 100 %
+Accuracy of Name (49) : 100 %
+Accuracy of Name (5) : 100 %
+Accuracy of Name (50) : 98 %
+Accuracy of Name (51) : 96 %
+Accuracy of Name (52) : 99 %
+Accuracy of Name (53) : 100 %
+Accuracy of Name (6) : 100 %
+Accuracy of Name (7) : 99 %
+Accuracy of Name (8) : 99 %
+Accuracy of Name (9) : 99 %
+
